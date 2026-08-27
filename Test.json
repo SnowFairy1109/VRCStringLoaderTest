@@ -2,16 +2,16 @@
     "雅白スノウ": {
       "rotation1": "第一 1→2",
       "rotation2": "第二 2→11",
-      "rotation3": "第三 11→12"
+      "rotation3": "第三 11"
     },
     "Shiaru": {
       "rotation1": "第一 3→4",
       "rotation2": "第二 4→8",
-      "rotation3": "第三 8→10"
+      "rotation3": "第三 8"
     },
     "リウシン": {
       "rotation1": "第一 4→6",
       "rotation2": "第二 6→14",
-      "rotation3": "第三 14→1"
+      "rotation3": "第三 14"
     }
   }
